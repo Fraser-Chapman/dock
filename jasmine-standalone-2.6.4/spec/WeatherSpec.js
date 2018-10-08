@@ -10,5 +10,11 @@ describe("Weather", function (){
         //spyOn(Math, 'random').and.returnValue(0);
         expect(weather.isStormy()).toBe(true);
     })
-
+    /*
+    it ("can be nice", function(){
+        
+        spyOn(Math, 'random').and.returnValue(0)
+        expect(weather.isNice()).toBe(falsy);
+    })
+    */
 });

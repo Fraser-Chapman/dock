@@ -5,5 +5,5 @@ Weather.prototype = {
 };
 
 function Weather(){
-    this._NOT_STORMY_PROBABILITY= 0.5;
+    this._NOT_STORMY_PROBABILITY = 0.5;
 };
